@@ -26,7 +26,7 @@ branches:
       required_linear_history: false
       allow_force_pushes: false
       allow_deletions: false
-      restrictions: null
+      restrictions: ~
   - name: uat
     protection:
       required_pull_request_reviews:
@@ -40,7 +40,7 @@ branches:
       required_linear_history: false
       allow_force_pushes: false
       allow_deletions: false
-      restrictions: null
+      restrictions: ~
   - name: staging
     protection:
       required_pull_request_reviews:
@@ -54,4 +54,4 @@ branches:
       required_linear_history: false
       allow_force_pushes: false
       allow_deletions: false
-      restrictions: null
+      restrictions: ~
