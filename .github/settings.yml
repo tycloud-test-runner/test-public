@@ -7,7 +7,7 @@ repository:
   name: test-public
 
   # A short description of the repository that will show up on GitHub
-  description: description of repo
+  description: Hello Da Nang
 
   # A URL with more information about the repository
   homepage: https://example.github.io/
