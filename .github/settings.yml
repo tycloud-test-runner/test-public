@@ -1,0 +1,6 @@
+repository:
+  name: devops-test
+  private: true
+  description: "devops-test"
+  has_issues: true
+  has_wiki: false
