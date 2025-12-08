@@ -1,6 +1,6 @@
 repository:
   name: devops-test
-  private: true
-  description: "devops-test"
+  private: false
+  description: "devops-tes22t"
   has_issues: true
   has_wiki: false
